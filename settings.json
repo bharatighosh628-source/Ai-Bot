@@ -8,7 +8,7 @@
   "server": {
     "ip": "fireserver.aternos.me",
     "port": 13458,
-    "version": "1.21.1"
+    "version": "26.0"
   },
   "position": {
     "enabled": true,
